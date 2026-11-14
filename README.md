@@ -1,8 +1,6 @@
 # pengyyyyyyyy
 
-Python developer exploring AI applications, source analysis and developer tools.
 
-我关注如何让模型生成的解释具有可核对的源码依据，也在记录实现中的工程取舍和失败案例。
 
 ## Featured project
 
