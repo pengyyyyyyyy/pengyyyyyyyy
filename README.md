@@ -1,27 +1,25 @@
 # pengyyyyyyyy
 
+我致力于探索大语言模型（LLM）在软件工程、创意表达与真实业务中的应用，关注它如何帮助我们理解复杂系统、拓展创作方式，并解决具体问题。
 
+## 探索方向
 
-## Featured project
+- **代码与底层架构** · 源码理解、依赖分析、执行流程梳理与系统架构设计。
+- **创意创造** · 灵感拓展、叙事构思、内容生成与创意原型实现。
+- **游戏创作** · 玩法设计、关卡构建、角色交互与游戏开发工作流。
+- **前端设计** · 界面设计、交互体验，以及从设计到代码的实现。
+- **视觉分析** · 图像理解、界面解读与多模态信息分析。
+- **实际业务** · 企业知识检索、流程自动化，以及面向具体场景的 AI 应用。
+
+我希望通过持续的项目实践，把想法做成可运行的作品，再结合真实使用、效果评测和工程迭代，探索这些应用的能力与边界。
+
+## 项目实践
 
 ### RepoTrail
 
-沿着源码依据，理解陌生的 Python 仓库。
+面向团队自托管的研发入职培训工作区，将 Python 源码与项目知识结合，提供源码导览、课程生成与审核发布、持续追问和学习历史恢复。
 
-从仓库入口与模块地图出发，生成可逐步阅读的路线，对照真实代码，并查看静态调用关系与待核实部分。
+这个项目承载了我对代码理解、RAG、Agent 工作流与应用工程的探索。
 
-- Python AST 符号索引与版本化源码快照
-- 受限源码工具、结构检查与一次补查修订
-- 本地阅读工作区、CLI、Markdown 与 CodeTour 导出
-- Requests、Click、Flask 的固定源码核对题集
-
-目前正在补充真实模型对照与独立人工语义评分。
-
-[查看项目](https://github.com/pengyyyyyyyy/repotrail) · [架构与取舍](https://github.com/pengyyyyyyyy/repotrail/blob/main/docs/architecture.md) · [评测方法](https://github.com/pengyyyyyyyy/repotrail/blob/main/benchmarks/README.md)
-
-![RepoTrail 离线示例中的源码阅读工作区](https://raw.githubusercontent.com/pengyyyyyyyy/repotrail/main/docs/assets/workspace.png)
-
-## Current focus
-
-Python · AI agent workflows · Code navigation · Evaluation
+[查看项目](https://github.com/pengyyyyyyyy/repotrail) · [架构与实现](https://github.com/pengyyyyyyyy/repotrail/blob/main/docs/architecture.md) · [评测方法](https://github.com/pengyyyyyyyy/repotrail/blob/main/benchmarks/README.md)
 
